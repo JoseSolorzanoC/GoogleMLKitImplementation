@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581928123217",
+    "project_id": "mlkit-implementation",
+    "storage_bucket": "mlkit-implementation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581928123217:android:e7b412c3364459e4683170",
+        "android_client_info": {
+          "package_name": "com.uteq.appmoviles.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581928123217-5ujverkancpbfus887dbnrulk3cm724d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3TPyuni9VAJGY9rbW_Y2IWztjLdtxek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581928123217-5ujverkancpbfus887dbnrulk3cm724d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
